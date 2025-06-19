@@ -1,0 +1,10 @@
+branches:
+  16.0-mig-partner_survey:
+    state: production, oca
+    target: OCA/e-commerce
+    notes: "PR merged for this branch"
+
+  16.0-imp-partner_survey-2:
+    state: development, oca, 
+    notes: "open PR"
+
